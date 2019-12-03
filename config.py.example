@@ -1,0 +1,5 @@
+ZULIP_SITE_URL = 'yourdomain.tld'
+ZULIP_USER_EMAIL = 'user@yourdomain.tld'
+ZULIP_API_KEY = 'your_api_key_here'
+ZULIP_STREAM = 'stream_name'
+ZULIP_SUBJECT = 'stream_subject'
