@@ -1,6 +1,6 @@
 import config
 import fileinput
-from ZulipUtil import ZulipUtil
+from zulip_util import ZulipUtil
 
 def get_data_from_stdin():
     stdin_data=''

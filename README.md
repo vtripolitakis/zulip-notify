@@ -1,7 +1,9 @@
 # zulip-notification
+
 ### A simple Incoming webhook bot
-This example of Zulip API sends a message to a specific stream. The message comes from the `stdin`
-e.g. `echo 'hello' | python notify.py`
+This example of Zulip API sends a message to a specific stream. 
+The message comes from the `stdin` e.g. `echo 'hello' | python notify.py`
+
 ## Quick start
 
 1. Clone this repo 
